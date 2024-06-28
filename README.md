@@ -1,1 +1,1 @@
-# mmbot-be
+# mmbot
